@@ -9,3 +9,7 @@
 #include "Initializers.h"
 
 #include "VulkanInstance.h"
+
+#include "QueueFamilyIndices.h"
+
+#include "VulkanPhysicalDevice.h"
