@@ -8,3 +8,4 @@
 #include "VulkanConfig.h"
 #include "Initializers.h"
 
+#include "VulkanInstance.h"
